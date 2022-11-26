@@ -7,13 +7,13 @@ This handler was made in order to help all new discord.js devs to get their desi
 You will have to wait 24 hours after using the first command to be able to receive your active developer badge.
 
 ## 📁 Sessions
-- 📦 [Dependências](#dependencies)
-- 📜 [Como Usar](#how-to-use)
+- 📦 [Dependencies](#dependencies)
+- 📜 [How to Use](#how-to-use)
 - 🔧 [Features](#commands)
 
 <a name="dependencies"></a>
 ## 📦 Dependencies
-Nome | Versão | Download |
+Name | Version | Download |
 --------- | ------ | ------ |
 [@discordjs/rest](https://www.npmjs.com/package/@discordjs/rest/v/1.0.1) | 1.0.1 | @discordjs/rest@1.0.1 |
 [colors](https://www.npmjs.com/package/colors/v/1.4.0) | 1.4.0 | colors@1.4.0 
